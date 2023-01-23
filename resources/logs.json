@@ -1,0 +1,38 @@
+[
+    {
+        "level": "DEBUG",
+        "message": "this is json log file1"
+    },
+    {
+        "level": "ERROR",
+        "message": "invalid input1"
+    },
+    {
+        "level": "INFO",
+        "message": "this is a logger1"
+    },
+    {
+        "level": "WARNING",
+        "message": "no default value1"
+    },
+    {
+        "level": "DEBUG",
+        "message": "this is json log file2"
+    },
+    {
+        "level": "ERROR",
+        "message": "invalid input2"
+    },
+    {
+        "level": "INFO",
+        "message": "this is a logger2"
+    },
+    {
+        "level": "WARNING",
+        "message": "no default value2"
+    },
+    {
+        "level": "TEST",
+        "message": "testing new log level"
+    }
+]

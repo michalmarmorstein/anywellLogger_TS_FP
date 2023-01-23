@@ -1,0 +1,50 @@
+{
+  "level": [
+    {
+      "level": "level",
+      "message": "message"
+    }
+  ],
+  "DEBUG": [
+    {
+      "level": "DEBUG",
+      "message": "this is csv log file1"
+    },
+    {
+      "level": "DEBUG",
+      "message": "this is csv log file2"
+    }
+  ],
+  "ERROR": [
+    {
+      "level": "ERROR",
+      "message": "invalid input1"
+    },
+    {
+      "level": "ERROR",
+      "message": "invalid input2"
+    }
+  ],
+  "WARNING": [
+    {
+      "level": "WARNING",
+      "message": "no default value1"
+    },
+    {
+      "level": "WARNING",
+      "message": "no default value2"
+    }
+  ],
+  "INFO": [
+    {
+      "level": "INFO",
+      "message": "this is logger"
+    }
+  ],
+  "TEST": [
+    {
+      "level": "TEST",
+      "message": "testing new log level"
+    }
+  ]
+}

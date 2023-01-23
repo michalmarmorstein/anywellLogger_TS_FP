@@ -1,0 +1,9 @@
+level,message
+DEBUG,this is csv log file1
+ERROR,invalid input1
+WARNING,no default value1
+DEBUG,this is csv log file2
+ERROR,invalid input2
+WARNING,no default value2
+INFO,this is logger
+TEST,testing new log level
