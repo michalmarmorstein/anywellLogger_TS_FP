@@ -1,10 +1,4 @@
 {
-  "level": [
-    {
-      "level": "level",
-      "message": "message"
-    }
-  ],
   "DEBUG": [
     {
       "level": "DEBUG",

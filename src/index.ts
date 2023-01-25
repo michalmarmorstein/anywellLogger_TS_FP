@@ -15,6 +15,7 @@ const csvReader = (callback: LogReaderCallback) => {
     const csvLogs = fs.readFileSync(csvFilePath, { encoding: 'utf-8' }); //TODO implement async for large data
     parse(csvLogs, {
         delimiter: ',',
+        from_line: 2,
         columns: headers,
       }, (error, messages: LogMessage[]) => {
         if (error) {
